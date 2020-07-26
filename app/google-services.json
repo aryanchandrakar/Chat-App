@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719086978467",
+    "firebase_url": "https://vimeet-3af23.firebaseio.com",
+    "project_id": "vimeet-3af23",
+    "storage_bucket": "vimeet-3af23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719086978467:android:0e7d8c5e45994471d6c616",
+        "android_client_info": {
+          "package_name": "com.example.vitmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719086978467-pick744i27c87lmik162o2vvtdotkhip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vitmeet",
+            "certificate_hash": "679383aed45a8216f2d33f3c64ae0a9fab3b7303"
+          }
+        },
+        {
+          "client_id": "719086978467-jn46soueqe5cjdh4ucr1gpebniddl59u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnjArAtwhwGr5M3Y_L1QwwVvhSsDyoFCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719086978467-jn46soueqe5cjdh4ucr1gpebniddl59u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
